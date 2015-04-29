@@ -1,2 +1,2 @@
 # XBRL_Browser
-Use the attached file gaap.xml to test this project.
+Drag the attached file gaap.xml to your laptop and use it to test this project. 
